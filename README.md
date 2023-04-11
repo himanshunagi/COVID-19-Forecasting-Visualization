@@ -1,7 +1,6 @@
 # Covid-19 Forecast
 The project utilized SQL skills for data analysis and Tableau for visualization to forecast COVID-19 infections until August 2023. 
-By downloading data from https://ourworldindata.org/covid-deaths and creating two datasets for COVID-19 deaths and vaccinations which you find in file,
-various SQL techniques such as Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, and Converting Data Types were applied for data analysis.
+By downloading data from https://ourworldindata.org/covid-deaths and creating two datasets for COVID-19 deaths and vaccinations, various SQL techniques such as Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, and Converting Data Types were applied for data analysis.
 
 Then project resulted in the creation of four datasets with running queries to generate insights on total cases, total deaths, death percentage, 
 total deaths per continent, percent population infected per country, and percent population infected for forecasting. 
