@@ -1,3 +1,5 @@
+#Looking dataset
+
 select Location, date, total_cases, new_cases, total_deaths, population
 from `Crona.Coviddeath`
 order by 1, 2
