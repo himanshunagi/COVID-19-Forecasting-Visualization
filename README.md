@@ -4,7 +4,7 @@ By downloading data from https://ourworldindata.org/covid-deaths and creating tw
 
 Then project resulted in the creation of four datasets with running queries to generate insights on total cases, total deaths, death percentage, 
 total deaths per continent, percent population infected per country, and percent population infected for forecasting. 
-These datasets were then visualized in a dashboard using Tableau, providing an interactive and user-friendly interface for exploring the forecasted COVID-19 data.
+These datasets were then visualized in a dashboard using Tableau you can click to view https://public.tableau.com/views/CovidForecast_16811979038130/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link or download file from above for tableau, providing an interactive and user-friendly interface for exploring the forecasted COVID-19 data.
 
 The project has demonstrated the use of data analysis and visualization techniques to gain insights and make forecasts regarding COVID-19 infections.
 The findings from this project could be valuable for decision-makers in the healthcare and policy domains to better understand the trends and 
